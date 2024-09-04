@@ -6,5 +6,5 @@
 # 该命令无法显示进度
 
 # aliyunpan upload -skip -norapid -bs 102400 -p 6 /workspaces/DATA/*Prcp* ERA5L
-aliyunpan upload -skip -norapid ./*.zip VOD
+aliyunpan upload -skip -norapid -bs 102400 ./*.zip VOD
 # aliyunpan upload -skip -norapid -bs 102400 -p 6 /workspaces/DATA/*_Tavg_* ERA5L

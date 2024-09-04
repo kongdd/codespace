@@ -15,3 +15,9 @@
 # fusermount -uz /workspaces/DATA/
 # mount /workspaces/DATA/
 # aria2c -c https://figshare.com/ndownloader/articles/21432123/versions/4
+
+# earthengine authenticate --force
+# earthengine authenticate --auth_mode=notebook --force
+
+# conda activate gee
+# python xee_down.py

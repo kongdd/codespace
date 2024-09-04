@@ -8,7 +8,10 @@
 - [x] 同步Google Drive到阿里云盘。
 
 
+> codespaces的文件记得及时删除，按存储时间收费。
+
 ## References
 
-1. rclone
-2. <https://github.com/tickstep/aliyunpan>
+1. <https://github.com/codespaces>
+2. rclone
+3. <https://github.com/tickstep/aliyunpan>
